@@ -1,0 +1,21 @@
+Source: python-hypothesis-jsonschema
+Section: python
+Priority: optional
+Maintainer: Pexip AS <packaging@pexip.com>
+Build-Depends: debhelper-compat (= 13),
+ dh-python,
+ python3-setuptools,
+ python3-all,
+ python3-hypothesis,
+ python3-jsonschema,
+Standards-Version: 4.5.1
+Rules-Requires-Root: no
+Homepage: https://github.com/python-jsonschema/hypothesis-jsonschema
+Vcs-Browser: https://github.com/Zac-HD/hypothesis-jsonschema
+Vcs-Git: https://github.com/Zac-HD/hypothesis-jsonschema.git
+
+Package: python3-hypothesis-jsonschema
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}
+Description: Generate test data from JSON schemata with Hypothesis
+ A Hypothesis strategy for generating data that matches some JSON schema.

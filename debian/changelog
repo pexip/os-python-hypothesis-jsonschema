@@ -1,0 +1,5 @@
+python-hypothesis-jsonschema (0.22.1-0pexip1) pexip; urgency=medium
+
+  * Prepare Pexip Packaging
+
+ -- Huw Jones <huw@pexip.com>  Tue, 19 Sep 2023 16:01:08 +0100
