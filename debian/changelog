@@ -1,3 +1,9 @@
+python-hypothesis-jsonschema (0.22.1-0pexip2) pexip-bookworm; urgency=medium
+
+  * Initial bookworm build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 16 Nov 2023 10:23:46 +0000
+
 python-hypothesis-jsonschema (0.22.1-0pexip1) pexip; urgency=medium
 
   * Prepare Pexip Packaging
