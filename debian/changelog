@@ -1,3 +1,9 @@
+python-hypothesis-jsonschema (0.23.1-0+pexip25u1) pexip-trixie; urgency=medium
+
+  * New upstream release
+
+ -- Huw Jones <huw@pexip.com>  Fri, 09 May 2025 11:02:32 +0100
+
 python-hypothesis-jsonschema (0.22.1-0+pexip25u1) pexip-trixie; urgency=medium
 
   * Initial trixie build
