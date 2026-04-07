@@ -1,3 +1,5 @@
+Skip version tests which are designed for use in git/release trees.
+
 diff --git a/tests/test_version.py b/tests/test_version.py
 index 64e2628..3b53429 100644
 --- a/tests/test_version.py
